@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><EAST transition="slide-in">
+
+<PAGE_TITRE>
+
+<TITRE>En quoi l&#8217;amélioration de l&#8217;expérience utilisateur est-elle vecteur d&#8217;innovation pour SAP ?</TITRE>
+<AUTEUR>AGUELMAME Omar,  HAFIDI Mustapha, Yann EKOBO</AUTEUR>
+<DATE_EXPOSE>21 Février 2019</DATE_EXPOSE>
+
+</PAGE_TITRE>
+
+
+
+
+
+
+<PARTIE>
+<TITRE>ENTREPRISE D'ACCEUIL</TITRE>
+<SECTION>
+<ENVIMAGE>
+<IMAGE fichier="Image1.png"/>
+</ENVIMAGE>
+<LISTE>
+<EL>Sopra Steria est une ESN</EL>
+<EL>38000 collaborateurs est né en 2015 du rapprochement des groupes Sopra et Stéria</EL>
+<EL>Propose des offres : <BR/>de conseil, d'intégration de systèmes, 
+			        <BR/>d'édition de solutions métier, de Business Process Services</EL>
+</LISTE>
+</SECTION>
+
+</PARTIE>
+
+
+
+
+
+<PARTIE>
+<TITRE>TRAVAUX EFFECTUES EN ENTREPRISE</TITRE>
+
+<SECTION>
+<TITRE>TRAVAUX EFFECTUES EN ENTREPRISE</TITRE>
+<PARAGRAPHE><BR/></PARAGRAPHE>
+
+<LISTE mode="pliage" type="disc">
+<EL>Découverte du langage de developpement propre à SAP : l'ABAP</EL>
+<EL>Utilisation du langage JavaScript de SAp sur le module Achats (SAP SRM : SAPUI5)</EL>
+<EL>Mise en place de SAP FIORI</EL>
+<EL>Participation aux évolutions de la solution (conception, réalisation, test)</EL>
+<EL>Analyse et corrections d'anomalies</EL>
+<EL>Projet : Equinox au sein de l'institue pasteur (15 personnes)</EL>
+</LISTE>
+</SECTION>
+</PARTIE>
+
+
+<PARTIE>
+<TITRE>INTRODUCTION (ERP, SAP)</TITRE>
+<SECTION>
+<TITRE>ERP</TITRE>
+<ENVIMAGE>
+<TITRE>Les ERP couvrent le périmètre de gestion suivant</TITRE>
+<IMAGE fichier="erp.png"/>
+</ENVIMAGE>
+<PARAGRAPHE>
+Système d'information qui permet de gérer et suivre au quotidien, l'ensemble des informations et des services opérationnels d'une entreprise
+</PARAGRAPHE>
+<PARAGRAPHE>
+Base de donnée commune
+</PARAGRAPHE>
+</SECTION>
+
+<SECTION>
+
+<TITRE>Qu'est ce qu'un ERP</TITRE>
+<ENVIDEO>
+<VIDEO autoplay="true" fichier="QU'EST CE QU'UN ERP .mp4" hauteur="50" largeur="50"/>
+</ENVIDEO>
+
+</SECTION>
+
+
+<SECTION>
+<TITRE>SAP</TITRE>
+<ENVIMAGE>
+<IMAGE fichier="Image3.png"/>
+</ENVIMAGE>
+
+<LISTE>
+<EL>1972 basée en Allemagne (Mannheim)</EL>
+<EL>Dietmar Hopp, Hans-Werner Hector, Hasso Plattner, Klaus E.Tschira et Claus Wellenreuther (IBM)</EL>
+<EL>Objectif de l'entreprise SAP : Développer un logiciel standard de gestion de données en temps réel</EL>
+<EL>Quelques chiffres concernant SaP : 200 000 clients dans le monde 140 000 projets implémentés Présent dans 120 pays 35 millions d'utilisateurs au quotidien</EL>
+</LISTE>
+</SECTION>
+
+<SECTION>
+<TITRE>SECTEURS D'ACTIVITES</TITRE>
+<PARAGRAPHE><BR/></PARAGRAPHE>
+<TABLEAU>
+<LT><CT>Banque</CT><CT>Défense et sécurité</CT><CT>Santé</CT><CT>Enseignement supérieur et recherche</CT><CT>Assurance</CT><CT>Secteur public</CT></LT>
+<LT><CT>Aérospatial</CT><CT>Equipements industriels</CT><CT>Automobile</CT><CT>Chimie</CT><CT>Grande consommations</CT><CT>Science de la vie</CT></LT>
+<LT><CT>Industrie de transformation</CT><CT>Autres technologies</CT><CT>Industries d'extraction</CT><CT>Industries d'hydrocarbures</CT><CT>Médias</CT><CT>Service prestataires</CT></LT>
+<LT><CT>Eau et énergies</CT><CT>Télécoms</CT><CT>Distribution</CT><CT>BTP</CT><CT>Logistique et transport</CT><CT>Commerce</CT></LT>
+</TABLEAU>
+</SECTION>
+</PARTIE>
+
+
+
+<PARTIE>
+<TITRE>SAP FIORI</TITRE>
+
+<SECTION>
+<ENVIMAGE>
+<IMAGE fichier="Image7.png" hauteur="50" largeur="50"/>
+</ENVIMAGE>
+</SECTION>
+
+<SECTION>
+<TITRE>SAP FIORI</TITRE>
+
+<PARAGRAPHE><BR/></PARAGRAPHE>
+
+<LISTE>
+<EL>SAP Fiori désigne la nouvelle interface utilisateur pour l'ensemble des solutions SAP</EL>
+<EL>Basée sur des principes de conception modernes et s'appuyant sur la technologie U15(Html15)</EL>
+<EL>SAP Fiori utilisateur et vous permet de bénéficier de gains de productivité importants</EL>
+</LISTE>
+
+</SECTION>
+
+<SECTION>
+<TITRE>Le principe de SAP FIORI</TITRE>
+<ENVIMAGE><IMAGE fichier="Image9.png" hauteur="50" largeur="50"/>
+
+</ENVIMAGE>
+</SECTION>
+</PARTIE>
+
+
+<PARTIE>
+<TITRE>SAP HANA</TITRE>
+<SECTION>
+
+<TITRE>ARCHITECTEUR BASE DE DONNEES</TITRE>
+
+<ENVIMAGE>
+<IMAGE fichier="Image10.png"/>
+</ENVIMAGE>
+
+<PARAGRAPHE>3 solutions de déploiement</PARAGRAPHE>
+</SECTION>
+
+<SECTION>
+<TITRE>STOCKAGE DES DONNEES</TITRE>
+
+<ENVIMAGE>
+<IMAGE fichier="Image11.png"/>
+</ENVIMAGE>
+<LISTE>
+<EL>Réduire considérablement les échecs du cache lors du chargement des données par le CPU</EL>
+<EL>Une compression élevée</EL>
+<EL>Agrégation rapide</EL>
+</LISTE>
+</SECTION>
+
+<SECTION>
+<TITRE>SYNTHESE SAP HANA</TITRE>
+<LISTE>
+<EL>D'interroger de très grands volumes de données en une fraction de seconde, grâce aux nouvelles technologies In-Memory qui ouvrent un nombre de perspectives encore inconnues dans les systèmes d'information.</EL>
+<EL>Les limites des systèmes d&#8217;informations qui existaient de longue date peuvent désormais être dépassées pour permettre le décloisonnement entre les niveaux de décision et d&#8217;action.</EL>
+<EL>Une nouvelle architecture due à l'intégration de la nouvelle plateforme analytique SAP, construite pour optimiser l'utilisation des technologies « In-Memory » de SAP HANA. </EL>
+<EL>Les nouveaux cas d&#8217;usage et ceux déjà connus que couvrent cette nouvelle plateforme décisionnelle.</EL>
+</LISTE>
+</SECTION>
+</PARTIE>
+
+
+
+
+
+
+<PAGE_CONCLUSION>
+<PARAGRAPHE>
+CONCLUSION
+</PARAGRAPHE>
+
+</PAGE_CONCLUSION>
+
+
+</EAST>
